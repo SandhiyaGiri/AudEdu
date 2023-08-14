@@ -1,0 +1,13 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 02 Apr 2023 07:12:19 at https://peacefulqode.com/themes/millennium/intro/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://peacefulqode.com/themes/millennium/intro/index.html -O1 "C:\Users\user\Desktop\template\proj" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+07:12:24	Error: 	Exit requested by shell or user
+07:12:24	Warning: 	File not added due to mirror cancel: https://peacefulqode.com/themes/millennium/intro/css/bootstrap.min.css
+
+HTTrack Website Copier/3.49-2 mirror complete in 5 seconds : 4 links scanned, 3 files written (237281 bytes overall) [53705 bytes received at 10741 bytes/sec], 237404 bytes transferred using HTTP compression in 4 files, ratio 21%, 2.0 requests per connection
+(1 errors, 1 warnings, 0 messages)
